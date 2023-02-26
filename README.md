@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">A passionate developer candidate from Australia</h3>
+<h3 align="center">A passionate software developer from Australia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozansevkin&label=Profile%20views&color=0e75b6&style=flat" alt="ozansevkin" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ozansevkin" target="blank"><img src="https://img.shields.io/twitter/follow/ozansevkin?logo=twitter&style=for-the-badge" alt="ozansevkin" /></a> </p>
 
-- 🔭 I’m currently working on [Sprint 8 project of my bootcamp](https://ozansevkin.github.io/se_project_aroundtheus/)
+- 🔭 I’m currently working on [Sprint 10 project of my bootcamp](https://ozansevkin.github.io/se_project_aroundtheus/)
 
-- 🌱 I’m currently learning **Javascript OOP and Webpack**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **on Javascript projects**
+- 👯 I’m looking to collaborate on **React projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ozansevkin](https://github.com/ozansevkin)
 
