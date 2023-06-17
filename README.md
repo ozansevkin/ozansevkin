@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/ozansevkin" target="blank"><img src="https://img.shields.io/twitter/follow/ozansevkin?logo=twitter&style=for-the-badge" alt="ozansevkin" /></a> </p>
 
-- 🔭 I’m currently working on [Sprint 10 project of my bootcamp](https://ozansevkin.github.io/se_project_aroundtheus/)
+- 🔭 I’m currently working on [Sprint 15 project of my bootcamp](https://ozansevkin.github.io/se_project_react/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Unit Testing with Jest**
 
 - 👯 I’m looking to collaborate on **React projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ozansevkin](https://github.com/ozansevkin)
 
 - 📫 How to reach me **sevkinozan@gmail.com**
-
-- ⚡ Fun fact **I won a huge amount of money on a scratch-off as a child and paid off my parent's debt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
