@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
 <h3 align="center">Software developer living in Australia</h3>
 
-- 🔭 I’m currently working on [Sprint 15 project of my bootcamp](https://ozansevkin.github.io/se_project_react/)
+- 🔭 I’m currently working on Sprint 16 (The final project of my bootcamp)
 
-- 🌱 I’m currently learning **Unit Testing with Jest**
+- 🌱 I’m currently learning **Unit Testing with Jest && pull requests**
 
 - 👯 I’m looking to collaborate on **on Javascript projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ozansevkin](https://github.com/ozansevkin)
 
 - 📫 How to reach me **sevkinozan@gmail.com**
-
-- ⚡ Fun fact **I won a huge amount of money on a scratch-off as a child and paid off my parent's debt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
