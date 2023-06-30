@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **React projects**
 
-- 📫 How to reach me **sevkinozan@gmail.com**
+- 📫 Reach me on **sevkinozan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
