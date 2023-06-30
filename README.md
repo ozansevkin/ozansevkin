@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">Software developer living in Australia</h3>
+<h3 align="center">Software developer living in Melbourne</h3>
 
-- 🔭 I’m currently working on Sprint 16 (The final project of my bootcamp)
+- 🔭 I’m currently working on **Sprint 16 (The final project of my bootcamp)**
 
 - 🌱 I’m currently learning **Unit Testing with Jest & pull requests**
 
 - 👯 I’m looking to collaborate on **React projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ozansevkin](https://github.com/ozansevkin)
 
 - 📫 How to reach me **sevkinozan@gmail.com**
 
