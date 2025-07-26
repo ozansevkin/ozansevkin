@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ozan</h1>
-<h3 align="center">Frontend developer living in Melbourne</h3>
-
-- 🔭 I’m currently looking for **a Frontend developer job**
-
-- 🌱 I’m currently learning **React Native**
-
-- 👯 I’m looking to collaborate on [on React projects](https://newsexplorer.ozansevkin.dev)
+<h3 align="center">Sofware Engineer living in Melbourne</h3>
 
 - 👨‍💻 All of my projects are available at [https://ozansevkin.dev](https://ozansevkin.dev)
 
